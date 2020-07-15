@@ -1,4 +1,4 @@
-examples = [ 'passthrough', 'passthrough_fh',
+examples = [ 'passthrough', 'print_fsops', 'passthrough_fh',
              'hello', 'hello_ll', 'printcap',
              'ioctl_client', 'poll_client', 'ioctl',
              'cuse', 'cuse_client' ]
